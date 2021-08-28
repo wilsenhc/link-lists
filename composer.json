@@ -1,8 +1,11 @@
 {
-    "name": "laravel/laravel",
+    "name": "wilsenhc/link-lists",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "A website that lets the user have a personalized links list",
+    "keywords": [
+        "links",
+        "lists"
+    ],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
