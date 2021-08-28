@@ -8,3 +8,6 @@ parameters:
         - tests
 
     level: 5
+
+    # Info: https://github.com/nunomaduro/larastan/blob/master/docs/rules.md#modelpropertyrule
+    checkModelProperties: true
